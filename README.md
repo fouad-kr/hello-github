@@ -1,2 +1,4 @@
-# hello-github
-My GitHub practical project
+# Hello GitHub
+
+This is my first GitHub practical project.
+I am learning Git and GitHub.
